@@ -1,0 +1,26 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de Asincronismo con Javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resparzasoto/curso-asincronismo-js.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async",
+    "await"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/resparzasoto/curso-asincronismo-js/issues"
+  },
+  "homepage": "https://github.com/resparzasoto/curso-asincronismo-js#readme"
+}
