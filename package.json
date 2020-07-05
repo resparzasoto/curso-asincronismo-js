@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "curso-asincronismo",
   "version": "1.0.0",
   "description": "Curso de Asincronismo con Javascript",
@@ -22,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/resparzasoto/curso-asincronismo-js/issues"
   },
-  "homepage": "https://github.com/resparzasoto/curso-asincronismo-js#readme"
+  "homepage": "https://github.com/resparzasoto/curso-asincronismo-js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
