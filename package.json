@@ -9,7 +9,9 @@
     "callback:challenge": "node src/callback/challenge.js",
     "promise": "node src/promise/index.js",
     "promise:challenge": "node src/promise/challenge.js",
-    "async": "node src/async/index.js"
+    "async": "node src/async/index.js",
+    "async:challenge": "node src/async/challenge.js",
+    "async:challenge:fetch": "node src/async/challenge-fetch.js"
   },
   "repository": {
     "type": "git",
@@ -28,6 +30,7 @@
   },
   "homepage": "https://github.com/resparzasoto/curso-asincronismo-js#readme",
   "dependencies": {
+    "node-fetch": "^2.6.0",
     "xmlhttprequest": "^1.8.0"
   }
 }
